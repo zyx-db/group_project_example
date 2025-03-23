@@ -1,9 +1,13 @@
 # how do i get it working locally?
 
+commands prefaced with `#` are comments
+commands prefaced with `$` are commands to run in your terminal
+
 ## needed installs
 
 **system wide requirements**
 
+- first [clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - [download git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [download python3](https://www.python.org/downloads/)
 
