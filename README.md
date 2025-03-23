@@ -1,6 +1,7 @@
 # how do i get it working locally?
 
 commands prefaced with `#` are comments
+
 commands prefaced with `$` are commands to run in your terminal
 
 ## needed installs
