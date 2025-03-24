@@ -35,6 +35,8 @@ $ cd server
 # its really useful to use existing libraries / frameworks from the web
 # however, we want to isolate them per project,
 # this makes it easy to see what dependencies we are using
+
+# NOTE only need to make this virtual environment ONCE!
 $ python3 -m venv venv
 
 # then we have to 'activate' the environment or just tell our interpreter to use it
