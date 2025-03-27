@@ -12,9 +12,9 @@ app.add_middleware(
     allow_headers=["*"],  # Allows all headers
 )
 
-@app.get("/example")
+@app.get("/anythingelse")
 async def get_example():
-    return {"message": "Hello from FastAPI!"}
+    return {"message": "esdffesjkdsjf!"}
 
 @app.get("/example-with-param")
 async def get_example_with_name(name: str):
